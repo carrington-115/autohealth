@@ -58,3 +58,9 @@ Each medical source undergoes strict _quality validation_ based on:
 | _Knowledge Embedding_ | LangChain                                          |
 | _Deployment_          | Heroku                                             |
 | _Version Control_     | Git & GitHub                                       |
+
+
+---
+## More Resources
+- Backend Repository: [Backend Repository](https://github.com/carrington-115/autohealth-backend)
+- Presentation: [Presentation Slides](https://drive.google.com/file/d/1bWlld9eZFNTxO29U2AJPMylXEpCzpeJ6/view?usp=sharing)
